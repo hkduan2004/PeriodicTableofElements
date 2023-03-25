@@ -1,11 +1,11 @@
 .element-cube {
-  border: 1px solid rgba(255, 255, 255, .3);
-  width: 65px;
-  height: 65px;
+  border: 1px solid rgba(0, 0, 0, 1);
+  width: 70px;
+  height: 70px;
   display: flex;
   flex-direction: column;
   justify-content: center;
-  align-items: center;
+  /* align-items: center; */
   cursor: pointer;
   transition: all .05s;
 }
@@ -20,15 +20,17 @@
 }
 
 .element-cube .number {
-  font-size: .6rem;
+  font-size: .4rem;
 }
 
 .element-cube .symbol {
-  font-size: 1.25rem;
+  font-size: 1.8rem;
+  text-align: center;
 }
 
 .element-cube .name {
-  font-size: .6rem;
+  font-size: .4rem;
+  text-align: center;
 }
 
 .element-cube .atomic-mass {

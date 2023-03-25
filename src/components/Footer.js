@@ -3,7 +3,7 @@ import React from 'react';
 const Footer = () => {
   return (
     <footer>
-      Amber Jen &copy; 2017
+      段慧坤 &copy; 2023
     </footer>
   )
 }

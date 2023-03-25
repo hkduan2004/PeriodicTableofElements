@@ -1,11 +1,12 @@
 .legend-box {
   position: absolute;
-  border: 1px solid rgba(255, 255, 255, .25);
+  border: 1px solid rgba(0, 0, 0, .7);
   padding: 1rem 1.5rem;
+  color: #333;
 
   /* ---- TEMP ---- */
-  left: 20%;
-  top: 12%;
+  left: 30%;
+  bottom: 7%;
 }
 
 .legend-content {

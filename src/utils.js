@@ -15,15 +15,15 @@ export const categoryList = [
 
 // Category Background Color
 export const categoryColor = {
-  'diatomic nonmetal': 'rgb(215, 68, 106)',
+  'diatomic nonmetal': 'rgb(168, 211, 191)',
   'noble gas': 'rgb(185, 46, 83)',
-  'alkali metal': 'rgb(154, 197, 215)',
-  'alkaline earth metal': 'rgb(79, 175, 221)',
-  'metalloid': 'rgb(237, 168, 59)',
-  'polyatomic nonmetal': 'rgb(218, 91, 77)',
+  'alkali metal': 'rgb(250, 130, 121)',
+  'alkaline earth metal': 'rgb(254, 195, 159)',
+  'metalloid': 'rgb(95, 214, 159)',
+  'polyatomic nonmetal': 'rgb(161, 216, 212)',
   'post-transition metal': 'rgb(214, 199, 170)',
-  'transition metal': 'rgb(94, 172, 158)',
-  'lanthanide': 'rgb(199, 196, 79)',
-  'actinide': 'rgb(199, 176, 58)',
+  'transition metal': 'rgb(233, 255, 5)',
+  'lanthanide': 'rgb(202, 154, 254)',
+  'actinide': 'rgb(173, 153, 190)',
   'unknown': 'rgb(118, 118, 118)'
 }
