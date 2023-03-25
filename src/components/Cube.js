@@ -4,7 +4,7 @@ import { categoryColor } from '../utils';
 import './Cube.css';
 
 const Cube = (props) => {
-  const { number, name, symbol, atomicMass, category, showElementCard } = props;
+  const { number, name, symbol, category, showElementCard } = props;
 
   const cubeBg = {
     background: `${categoryColor[category]}`
